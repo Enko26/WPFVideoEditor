@@ -1,0 +1,15 @@
+C:\Users\tr\Desktop\WPFVİDEO\VideoEdit\bin\Debug\WPFVİDEO.exe.config
+C:\Users\tr\Desktop\WPFVİDEO\VideoEdit\bin\Debug\WPFVİDEO.exe
+C:\Users\tr\Desktop\WPFVİDEO\VideoEdit\bin\Debug\WPFVİDEO.pdb
+C:\Users\tr\Desktop\WPFVİDEO\VideoEdit\obj\Debug\WPFVİDEO.csprojAssemblyReference.cache
+C:\Users\tr\Desktop\WPFVİDEO\VideoEdit\obj\Debug\MainWindow.baml
+C:\Users\tr\Desktop\WPFVİDEO\VideoEdit\obj\Debug\App.baml
+C:\Users\tr\Desktop\WPFVİDEO\VideoEdit\obj\Debug\MainWindow.g.cs
+C:\Users\tr\Desktop\WPFVİDEO\VideoEdit\obj\Debug\App.g.cs
+C:\Users\tr\Desktop\WPFVİDEO\VideoEdit\obj\Debug\WPFVİDEO_MarkupCompile.cache
+C:\Users\tr\Desktop\WPFVİDEO\VideoEdit\obj\Debug\WPFVİDEO.g.resources
+C:\Users\tr\Desktop\WPFVİDEO\VideoEdit\obj\Debug\WPFVİDEO.Properties.Resources.resources
+C:\Users\tr\Desktop\WPFVİDEO\VideoEdit\obj\Debug\WPFVİDEO.csproj.GenerateResource.cache
+C:\Users\tr\Desktop\WPFVİDEO\VideoEdit\obj\Debug\WPFVİDEO.csproj.CoreCompileInputs.cache
+C:\Users\tr\Desktop\WPFVİDEO\VideoEdit\obj\Debug\WPFVİDEO.exe
+C:\Users\tr\Desktop\WPFVİDEO\VideoEdit\obj\Debug\WPFVİDEO.pdb

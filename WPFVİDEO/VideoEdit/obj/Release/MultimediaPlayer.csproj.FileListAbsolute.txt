@@ -1,0 +1,61 @@
+E:\MultimediaPlayer - copia\MultimediaPlayer\bin\Release\MultimediaPlayer.exe.config
+E:\MultimediaPlayer - copia\MultimediaPlayer\bin\Release\MultimediaPlayer.exe
+E:\MultimediaPlayer - copia\MultimediaPlayer\bin\Release\MultimediaPlayer.pdb
+E:\MultimediaPlayer - copia\MultimediaPlayer\obj\Release\MultimediaPlayer.csprojResolveAssemblyReference.cache
+E:\MultimediaPlayer - copia\MultimediaPlayer\obj\Release\MainWindow.baml
+E:\MultimediaPlayer - copia\MultimediaPlayer\obj\Release\App.baml
+E:\MultimediaPlayer - copia\MultimediaPlayer\obj\Release\MainWindow.g.cs
+E:\MultimediaPlayer - copia\MultimediaPlayer\obj\Release\App.g.cs
+E:\MultimediaPlayer - copia\MultimediaPlayer\obj\Release\MultimediaPlayer_Content.g.cs
+E:\MultimediaPlayer - copia\MultimediaPlayer\obj\Release\MultimediaPlayer_MarkupCompile.cache
+E:\MultimediaPlayer - copia\MultimediaPlayer\obj\Release\MultimediaPlayer.g.resources
+E:\MultimediaPlayer - copia\MultimediaPlayer\obj\Release\MultimediaPlayer.Properties.Resources.resources
+E:\MultimediaPlayer - copia\MultimediaPlayer\obj\Release\MultimediaPlayer.csproj.GenerateResource.Cache
+E:\MultimediaPlayer - copia\MultimediaPlayer\obj\Release\MultimediaPlayer.exe
+E:\MultimediaPlayer - copia\MultimediaPlayer\obj\Release\MultimediaPlayer.pdb
+F:\TOSHIBA\MediaEdwin\MultimediaPlayer - copia\MultimediaPlayer\bin\Release\MultimediaPlayer.exe.config
+F:\TOSHIBA\MediaEdwin\MultimediaPlayer - copia\MultimediaPlayer\bin\Release\MultimediaPlayer.exe
+F:\TOSHIBA\MediaEdwin\MultimediaPlayer - copia\MultimediaPlayer\bin\Release\MultimediaPlayer.pdb
+F:\TOSHIBA\MediaEdwin\MultimediaPlayer - copia\MultimediaPlayer\obj\Release\MainWindow.baml
+F:\TOSHIBA\MediaEdwin\MultimediaPlayer - copia\MultimediaPlayer\obj\Release\App.baml
+F:\TOSHIBA\MediaEdwin\MultimediaPlayer - copia\MultimediaPlayer\obj\Release\MainWindow.g.cs
+F:\TOSHIBA\MediaEdwin\MultimediaPlayer - copia\MultimediaPlayer\obj\Release\App.g.cs
+F:\TOSHIBA\MediaEdwin\MultimediaPlayer - copia\MultimediaPlayer\obj\Release\MultimediaPlayer_Content.g.cs
+F:\TOSHIBA\MediaEdwin\MultimediaPlayer - copia\MultimediaPlayer\obj\Release\MultimediaPlayer_MarkupCompile.cache
+F:\TOSHIBA\MediaEdwin\MultimediaPlayer - copia\MultimediaPlayer\obj\Release\MultimediaPlayer.g.resources
+F:\TOSHIBA\MediaEdwin\MultimediaPlayer - copia\MultimediaPlayer\obj\Release\MultimediaPlayer.Properties.Resources.resources
+F:\TOSHIBA\MediaEdwin\MultimediaPlayer - copia\MultimediaPlayer\obj\Release\MultimediaPlayer.csproj.GenerateResource.Cache
+F:\TOSHIBA\MediaEdwin\MultimediaPlayer - copia\MultimediaPlayer\obj\Release\MultimediaPlayer.exe
+F:\TOSHIBA\MediaEdwin\MultimediaPlayer - copia\MultimediaPlayer\obj\Release\MultimediaPlayer.pdb
+C:\Users\tr\Desktop\mediaplayerwpf-master\MultimediaPlayer\MultimediaPlayer\bin\Release\MultimediaPlayer.exe.config
+C:\Users\tr\Desktop\mediaplayerwpf-master\MultimediaPlayer\MultimediaPlayer\bin\Release\MultimediaPlayer.exe
+C:\Users\tr\Desktop\mediaplayerwpf-master\MultimediaPlayer\MultimediaPlayer\bin\Release\MultimediaPlayer.pdb
+C:\Users\tr\Desktop\mediaplayerwpf-master\MultimediaPlayer\MultimediaPlayer\obj\Release\MultimediaPlayer.csprojAssemblyReference.cache
+C:\Users\tr\Desktop\mediaplayerwpf-master\MultimediaPlayer\MultimediaPlayer\obj\Release\MainWindow.baml
+C:\Users\tr\Desktop\mediaplayerwpf-master\MultimediaPlayer\MultimediaPlayer\obj\Release\App.baml
+C:\Users\tr\Desktop\mediaplayerwpf-master\MultimediaPlayer\MultimediaPlayer\obj\Release\MainWindow.g.cs
+C:\Users\tr\Desktop\mediaplayerwpf-master\MultimediaPlayer\MultimediaPlayer\obj\Release\App.g.cs
+C:\Users\tr\Desktop\mediaplayerwpf-master\MultimediaPlayer\MultimediaPlayer\obj\Release\MultimediaPlayer_Content.g.cs
+C:\Users\tr\Desktop\mediaplayerwpf-master\MultimediaPlayer\MultimediaPlayer\obj\Release\MultimediaPlayer_MarkupCompile.cache
+C:\Users\tr\Desktop\mediaplayerwpf-master\MultimediaPlayer\MultimediaPlayer\obj\Release\MultimediaPlayer.g.resources
+C:\Users\tr\Desktop\mediaplayerwpf-master\MultimediaPlayer\MultimediaPlayer\obj\Release\MultimediaPlayer.Properties.Resources.resources
+C:\Users\tr\Desktop\mediaplayerwpf-master\MultimediaPlayer\MultimediaPlayer\obj\Release\MultimediaPlayer.csproj.GenerateResource.cache
+C:\Users\tr\Desktop\mediaplayerwpf-master\MultimediaPlayer\MultimediaPlayer\obj\Release\MultimediaPlayer.csproj.CoreCompileInputs.cache
+C:\Users\tr\Desktop\mediaplayerwpf-master\MultimediaPlayer\MultimediaPlayer\obj\Release\MultimediaPlayer.exe
+C:\Users\tr\Desktop\mediaplayerwpf-master\MultimediaPlayer\MultimediaPlayer\obj\Release\MultimediaPlayer.pdb
+C:\Users\tr\Desktop\Wpf-VideoEdit\MultimediaPlayer\MultimediaPlayer\bin\Release\MultimediaPlayer.exe.config
+C:\Users\tr\Desktop\Wpf-VideoEdit\MultimediaPlayer\MultimediaPlayer\bin\Release\MultimediaPlayer.exe
+C:\Users\tr\Desktop\Wpf-VideoEdit\MultimediaPlayer\MultimediaPlayer\bin\Release\MultimediaPlayer.pdb
+C:\Users\tr\Desktop\Wpf-VideoEdit\MultimediaPlayer\MultimediaPlayer\obj\Release\MultimediaPlayer.csprojAssemblyReference.cache
+C:\Users\tr\Desktop\Wpf-VideoEdit\MultimediaPlayer\MultimediaPlayer\obj\Release\MainWindow.baml
+C:\Users\tr\Desktop\Wpf-VideoEdit\MultimediaPlayer\MultimediaPlayer\obj\Release\App.baml
+C:\Users\tr\Desktop\Wpf-VideoEdit\MultimediaPlayer\MultimediaPlayer\obj\Release\MainWindow.g.cs
+C:\Users\tr\Desktop\Wpf-VideoEdit\MultimediaPlayer\MultimediaPlayer\obj\Release\App.g.cs
+C:\Users\tr\Desktop\Wpf-VideoEdit\MultimediaPlayer\MultimediaPlayer\obj\Release\MultimediaPlayer_Content.g.cs
+C:\Users\tr\Desktop\Wpf-VideoEdit\MultimediaPlayer\MultimediaPlayer\obj\Release\MultimediaPlayer_MarkupCompile.cache
+C:\Users\tr\Desktop\Wpf-VideoEdit\MultimediaPlayer\MultimediaPlayer\obj\Release\MultimediaPlayer.g.resources
+C:\Users\tr\Desktop\Wpf-VideoEdit\MultimediaPlayer\MultimediaPlayer\obj\Release\MultimediaPlayer.Properties.Resources.resources
+C:\Users\tr\Desktop\Wpf-VideoEdit\MultimediaPlayer\MultimediaPlayer\obj\Release\MultimediaPlayer.csproj.GenerateResource.cache
+C:\Users\tr\Desktop\Wpf-VideoEdit\MultimediaPlayer\MultimediaPlayer\obj\Release\MultimediaPlayer.csproj.CoreCompileInputs.cache
+C:\Users\tr\Desktop\Wpf-VideoEdit\MultimediaPlayer\MultimediaPlayer\obj\Release\MultimediaPlayer.exe
+C:\Users\tr\Desktop\Wpf-VideoEdit\MultimediaPlayer\MultimediaPlayer\obj\Release\MultimediaPlayer.pdb

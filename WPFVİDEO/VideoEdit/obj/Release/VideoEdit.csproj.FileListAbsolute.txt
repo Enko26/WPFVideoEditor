@@ -1,0 +1,30 @@
+C:\Users\tr\Desktop\Wpf-VideoEdit\MultimediaPlayer\MultimediaPlayer\bin\Release\MultimediaPlayer.exe.config
+C:\Users\tr\Desktop\Wpf-VideoEdit\MultimediaPlayer\MultimediaPlayer\bin\Release\MultimediaPlayer.exe
+C:\Users\tr\Desktop\Wpf-VideoEdit\MultimediaPlayer\MultimediaPlayer\bin\Release\MultimediaPlayer.pdb
+C:\Users\tr\Desktop\Wpf-VideoEdit\MultimediaPlayer\MultimediaPlayer\obj\Release\MainWindow.baml
+C:\Users\tr\Desktop\Wpf-VideoEdit\MultimediaPlayer\MultimediaPlayer\obj\Release\App.baml
+C:\Users\tr\Desktop\Wpf-VideoEdit\MultimediaPlayer\MultimediaPlayer\obj\Release\MainWindow.g.cs
+C:\Users\tr\Desktop\Wpf-VideoEdit\MultimediaPlayer\MultimediaPlayer\obj\Release\App.g.cs
+C:\Users\tr\Desktop\Wpf-VideoEdit\MultimediaPlayer\MultimediaPlayer\obj\Release\MultimediaPlayer_Content.g.cs
+C:\Users\tr\Desktop\Wpf-VideoEdit\MultimediaPlayer\MultimediaPlayer\obj\Release\MultimediaPlayer_MarkupCompile.cache
+C:\Users\tr\Desktop\Wpf-VideoEdit\MultimediaPlayer\MultimediaPlayer\obj\Release\MultimediaPlayer.g.resources
+C:\Users\tr\Desktop\Wpf-VideoEdit\MultimediaPlayer\MultimediaPlayer\obj\Release\MultimediaPlayer.Properties.Resources.resources
+C:\Users\tr\Desktop\Wpf-VideoEdit\MultimediaPlayer\MultimediaPlayer\obj\Release\VideoEdit.csproj.GenerateResource.cache
+C:\Users\tr\Desktop\Wpf-VideoEdit\MultimediaPlayer\MultimediaPlayer\obj\Release\VideoEdit.csproj.CoreCompileInputs.cache
+C:\Users\tr\Desktop\Wpf-VideoEdit\MultimediaPlayer\MultimediaPlayer\obj\Release\MultimediaPlayer.exe
+C:\Users\tr\Desktop\Wpf-VideoEdit\MultimediaPlayer\MultimediaPlayer\obj\Release\MultimediaPlayer.pdb
+C:\Users\tr\Desktop\MultimediaPlayer - Kopya\MultimediaPlayer\bin\Release\MultimediaPlayer.exe.config
+C:\Users\tr\Desktop\MultimediaPlayer - Kopya\MultimediaPlayer\bin\Release\MultimediaPlayer.exe
+C:\Users\tr\Desktop\MultimediaPlayer - Kopya\MultimediaPlayer\bin\Release\MultimediaPlayer.pdb
+C:\Users\tr\Desktop\MultimediaPlayer - Kopya\MultimediaPlayer\obj\Release\VideoEdit.csprojAssemblyReference.cache
+C:\Users\tr\Desktop\MultimediaPlayer - Kopya\MultimediaPlayer\obj\Release\MainWindow.baml
+C:\Users\tr\Desktop\MultimediaPlayer - Kopya\MultimediaPlayer\obj\Release\App.baml
+C:\Users\tr\Desktop\MultimediaPlayer - Kopya\MultimediaPlayer\obj\Release\MainWindow.g.cs
+C:\Users\tr\Desktop\MultimediaPlayer - Kopya\MultimediaPlayer\obj\Release\App.g.cs
+C:\Users\tr\Desktop\MultimediaPlayer - Kopya\MultimediaPlayer\obj\Release\MultimediaPlayer_MarkupCompile.cache
+C:\Users\tr\Desktop\MultimediaPlayer - Kopya\MultimediaPlayer\obj\Release\MultimediaPlayer.g.resources
+C:\Users\tr\Desktop\MultimediaPlayer - Kopya\MultimediaPlayer\obj\Release\MultimediaPlayer.Properties.Resources.resources
+C:\Users\tr\Desktop\MultimediaPlayer - Kopya\MultimediaPlayer\obj\Release\VideoEdit.csproj.GenerateResource.cache
+C:\Users\tr\Desktop\MultimediaPlayer - Kopya\MultimediaPlayer\obj\Release\VideoEdit.csproj.CoreCompileInputs.cache
+C:\Users\tr\Desktop\MultimediaPlayer - Kopya\MultimediaPlayer\obj\Release\MultimediaPlayer.exe
+C:\Users\tr\Desktop\MultimediaPlayer - Kopya\MultimediaPlayer\obj\Release\MultimediaPlayer.pdb

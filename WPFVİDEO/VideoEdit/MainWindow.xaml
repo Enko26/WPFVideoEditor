@@ -1,0 +1,253 @@
+﻿<Window x:Name="RootWindow" x:Class="WPFVideoEdit.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="MainWindow" Height="509.008" Width="1076.971"
+        WindowStyle="None" Icon="Resources/icono2.png"
+        BorderThickness="0"
+     
+        WindowStartupLocation="CenterScreen" AllowsTransparency="True" Background="Transparent" ResizeMode="NoResize" Loaded="RootWindow_Loaded">
+    <Grid x:Name="RootGrid">
+        <Grid.Background>
+            <ImageBrush ImageSource="Resources\Awesome Wallpapers - wallhaven_cc.jpg" Stretch="UniformToFill"/>
+        </Grid.Background>
+
+        <Border x:Name="videolist" CornerRadius="1" Height="486" Margin="950,22,0,0" VerticalAlignment="Top"
+                Background="#CC000000">
+            <ListBox x:Name="lbList"  BorderBrush="{x:Null}" Background="Transparent" AllowDrop="True" Foreground="#FF008BFF"  MouseDoubleClick="lbLista_MouseDoubleClick_1" FontSize="10" Drop="lbLista_Drop" />
+        </Border>
+
+        <Grid x:Name="gridmedya" Margin="0,22,127,0" Grid.ColumnSpan="2" >
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="807*"/>
+                <ColumnDefinition Width="48*"/>
+                <ColumnDefinition Width="95*"/>
+            </Grid.ColumnDefinitions>
+            <MediaElement x:Name="medyacontrol"  UnloadedBehavior="Manual" Volume="{Binding Value, ElementName=slidervol}" AllowDrop="True"  LoadedBehavior="Manual" MouseLeftButtonDown="mediacontrol_MouseLeftButtonDown" MediaOpened="mediacontrol_MediaOpened" MediaEnded="mediacontrol_MediaEnded" Stretch="Fill" MouseMove="mediacontrol_MouseMove" Margin="10,0,-10,0" Grid.ColumnSpan="3" />
+        </Grid>
+
+        <Border x:Name="bordercontrol" BorderBrush="#00000000" BorderThickness="0" Height="22" VerticalAlignment="Top" MouseLeftButtonDown="bordercontroles_MouseLeftButtonDown" Background="Black">
+            <Grid x:Name="GridControls" Margin="0,0,88,-243">
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="11*"/>
+                    <RowDefinition Height="255*"/>
+                </Grid.RowDefinitions>
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="246*"/>
+                    <ColumnDefinition Width="60*"/>
+                    <ColumnDefinition Width="683*"/>
+                </Grid.ColumnDefinitions>
+                <Button x:Name="btcikis" Margin="665,0,0,247" BorderThickness="0" BorderBrush="Transparent" Click="btcikis_Click" Width="18" Height="18" RenderTransformOrigin="3.032,2.389" Grid.Column="2" Grid.RowSpan="2" >
+                    <Button.Background>
+                        <ImageBrush ImageSource="Resources/btn_close_p.png" Stretch="None"/>
+                    </Button.Background>
+                </Button>
+                <Button x:Name="btkücül" VerticalAlignment="Bottom" Margin="642,0,23,247" BorderThickness="0" BorderBrush="Transparent" Click="btkücül_Click" Height="18" Width="18" RenderTransformOrigin="0.5,-1.37" Grid.Column="2" Grid.RowSpan="2" >
+                    <Button.Background>
+                        <ImageBrush ImageSource="Resources/btn_min_p.png"/>
+                    </Button.Background>
+                </Button>
+                <Expander x:Name="medya" Header="Medya" HorizontalAlignment="Left"  VerticalAlignment="Top" IsExpanded="False" Foreground="White" Height="117" Expanded="meyda_Expanded" Width="111"  FontSize="10" Style="{DynamicResource ExpanderStilo}" Background="{x:Null}" OpacityMask="Black" Grid.RowSpan="2">
+
+                    <Border x:Name="bordermedios" CornerRadius="8" HorizontalAlignment="Left" Height="97" VerticalAlignment="Top" Width="109" Background="#99000000">
+
+                        <Menu x:Name="menufiles" BorderBrush="{x:Null}" Background="Transparent" Foreground="White" FontSize="10" >
+                            <MenuItem x:Name="dosyac" Header="Dosyayı Aç" Click="dosyac_Click" />
+                            <MenuItem x:Name="cokludosya" Header="Birden Fazla Dosya Aç" Click="cokludosya_Click" />
+                            <MenuItem x:Name="cikis" Header="Çıkıs" Click="cikis_Click" />
+                        </Menu>
+                    </Border>
+                </Expander>
+                <Expander x:Name="ayarlar" IsExpanded="False" Header="Ayarlar" HorizontalAlignment="Left"  VerticalAlignment="Top"  Foreground="White" Height="119" Margin="116,0,0,0" Width="109" Expanded="ayarlar_Expanded"  FontSize="10" Style="{DynamicResource ExpanderStilo}"  Background="{x:Null}" OpacityMask="Black" Grid.RowSpan="2">
+
+                    <Border x:Name="ayar" Margin="0,0,10,0" CornerRadius="8" HorizontalAlignment="Left" Height="95" VerticalAlignment="Top" Width="92" Background="#99000000">
+
+                        <Menu x:Name="menuayar" BorderBrush="{x:Null}" Background="Transparent" Foreground="White" FontSize="10" >
+                            <MenuItem x:Name="oynat" Header="Oynat" Click="oynat_Click"  />
+                            <MenuItem x:Name="Menupause" Header="Duraklat" Click="Menupause_Click"  />
+                            <MenuItem x:Name="önceki" Header="Önceki" Click="önceki_Click"  />
+                            <MenuItem x:Name="sonraki" Header="Sonraki" Click="sonraki_Click" />
+                            <MenuItem x:Name="dur" Header="Dur" Click="dur_Click" RenderTransformOrigin="-1,1.833" Height="20" Width="50" >
+                                <MenuItem.RenderTransform>
+                                    <TransformGroup>
+                                        <ScaleTransform/>
+                                        <SkewTransform/>
+                                        <RotateTransform Angle="1.745"/>
+                                        <TranslateTransform/>
+                                    </TransformGroup>
+                                </MenuItem.RenderTransform>
+                            </MenuItem>
+                        </Menu>
+                    </Border>
+                </Expander>
+                <Expander x:Name="Sess" IsExpanded="False" Header="Ses" HorizontalAlignment="Left"  VerticalAlignment="Top"  Foreground="White" Height="119" Margin="7,0,0,0" Width="107" FontSize="10" Expanded="Sess_Expanded" Style="{DynamicResource ExpanderStilo}" Background="{x:Null}" Grid.Column="1" Grid.ColumnSpan="2" Grid.RowSpan="2" >
+
+                    <Border x:Name="mses" Margin="0,0,10,0" CornerRadius="8" HorizontalAlignment="Left" Height="95" VerticalAlignment="Top" Width="92" Background="#99000000">
+
+                        <Menu x:Name="menusesi" BorderBrush="{x:Null}" Background="Transparent" Foreground="White" FontSize="10" >
+                            <MenuItem x:Name="parcayiac" Header="Parçayı Aç" Click="parcayiac_Click"  />
+                            <MenuItem x:Name="parcalariac" Header="Parçaları Aç" Click="parcalariac_Click" />
+                            <MenuItem x:Name="sesart" Header="Ses +" Click="sesart_Click" />
+                            <MenuItem x:Name="sesazal" Header="Ses -" Click="sesazal_Click"  />
+                        </Menu>
+                    </Border>
+                </Expander>
+                <Expander x:Name="video" IsExpanded="False" Header="Video" HorizontalAlignment="Left"  VerticalAlignment="Top"  Foreground="White" Height="119" Margin="59,0,0,0" Width="99" Expanded="video_Expanded"  FontSize="10" Style="{DynamicResource ExpanderStilo}" Grid.Column="2" Grid.RowSpan="2">
+
+                    <Border x:Name="bordervideo" CornerRadius="8" HorizontalAlignment="Left" Height="95" VerticalAlignment="Top" Width="94" Background="#99000000">
+
+                        <Menu x:Name="menuvideo" BorderBrush="{x:Null}" Background="Transparent" Foreground="White" FontSize="10" >
+                            <MenuItem x:Name="videoac" Header="Videoları Aç" Click="videoac_Click"  />
+                            <MenuItem x:Name="fullekran" Header="Tam Ekran Yap" Click="fullekran_Click"  />
+                        </Menu>
+                    </Border>
+                </Expander>
+                <Label x:Name="lbAbout" Content="Diken Desing" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="466,-4,0,0" BorderBrush="Black" FontFamily="Arial Rounded MT Bold" Width="114" Height="26" Foreground="Red" FontSize="15" FontWeight="Bold" Grid.Column="2" Grid.RowSpan="2" Background="Black">
+                    <Label.Effect>
+                        <DropShadowEffect Color="Red" Opacity="0.8"/>
+                    </Label.Effect>
+                </Label>
+            </Grid>
+
+        </Border>
+        <Border x:Name="BorderMedyaControls"  Margin="0,444,127,5" Background="#00000000" >
+            <Grid x:Name="GridControl">
+                <Slider x:Name="slidervol" HorizontalAlignment="Left" VerticalAlignment="Top" Width="57" Margin="831,33,0,-3" Height="30" Maximum="1" TickFrequency="0.1" Value="0.5" IsMoveToPointEnabled="True" Style="{DynamicResource Estilo}" />
+
+                <Label x:Name="lbrepeat"  Content="Tekrarla" HorizontalAlignment="Left" Margin="376,18,0,0" VerticalAlignment="Top" Foreground="White" FontSize="8">
+                    <Label.Style>
+                        <Style TargetType="{x:Type Label}">
+                            <Setter Property="Visibility" Value="Collapsed"/>
+                            <Style.Triggers>
+                                <DataTrigger Binding="{Binding IsMouseOver, ElementName=btRepeat}"
+    								Value="True"   >
+                                    <Setter Property="Visibility" Value="Visible"/>
+                                </DataTrigger>
+                            </Style.Triggers>
+                        </Style>
+                    </Label.Style>
+                </Label>
+                <Label x:Name="lbstop"  Content="Duraklat" HorizontalAlignment="Left" Margin="414,17,0,0" VerticalAlignment="Top" Foreground="White" FontSize="8">
+                    <Label.Style>
+                        <Style TargetType="{x:Type Label}">
+                            <Setter Property="Visibility" Value="Collapsed"/>
+                            <Style.Triggers>
+                                <DataTrigger Binding="{Binding IsMouseOver, ElementName=btStop}"
+    								Value="True"   >
+                                    <Setter Property="Visibility" Value="Visible"/>
+                                </DataTrigger>
+                            </Style.Triggers>
+                        </Style>
+                    </Label.Style>
+                </Label>
+
+                <Label x:Name="lbback"  Content="Önceki" HorizontalAlignment="Left" Margin="449,17,0,0" VerticalAlignment="Top" Foreground="White" FontSize="8">
+                    <Label.Style>
+                        <Style TargetType="{x:Type Label}">
+                            <Setter Property="Visibility" Value="Collapsed"/>
+                            <Style.Triggers>
+                                <DataTrigger Binding="{Binding IsMouseOver, ElementName=btBack}"
+    								Value="True"   >
+                                    <Setter Property="Visibility" Value="Visible"/>
+                                </DataTrigger>
+                            </Style.Triggers>
+                        </Style>
+                    </Label.Style>
+                </Label>
+                <Label x:Name="lbPausa"  Content="Pausa" HorizontalAlignment="Left" Margin="474,17,0,0" VerticalAlignment="Top" Foreground="White" FontSize="8">
+                    <Label.Style>
+                        <Style TargetType="{x:Type Label}">
+                            <Setter Property="Visibility" Value="Collapsed"/>
+                            <Style.Triggers>
+                                <DataTrigger Binding="{Binding IsMouseOver, ElementName=btPausa}"
+    								Value="True"   >
+                                    <Setter Property="Visibility" Value="Visible"/>
+                                </DataTrigger>
+                            </Style.Triggers>
+                        </Style>
+                    </Label.Style>
+                </Label>
+
+                <Label x:Name="lbPlay"  Content="Oynat" HorizontalAlignment="Left" Margin="467,17,0,0" VerticalAlignment="Top" Foreground="White" FontSize="8">
+                    <Label.Style>
+                        <Style TargetType="{x:Type Label}">
+                            <Setter Property="Visibility" Value="Collapsed"/>
+                            <Style.Triggers>
+                                <DataTrigger Binding="{Binding IsMouseOver, ElementName=btPlay}"
+    								Value="True"   >
+                                    <Setter Property="Visibility" Value="Visible"/>
+                                </DataTrigger>
+                            </Style.Triggers>
+                        </Style>
+                    </Label.Style>
+                </Label>
+
+                <Label x:Name="lbNext"  Content="Sonraki" HorizontalAlignment="Left" Margin="499,17,0,0" VerticalAlignment="Top" Foreground="White" FontSize="8">
+                    <Label.Style>
+                        <Style TargetType="{x:Type Label}">
+                            <Setter Property="Visibility" Value="Collapsed"/>
+                            <Style.Triggers>
+                                <DataTrigger Binding="{Binding IsMouseOver, ElementName=btNext}"
+    								Value="True"   >
+                                    <Setter Property="Visibility" Value="Visible"/>
+                                </DataTrigger>
+                            </Style.Triggers>
+                        </Style>
+                    </Label.Style>
+                </Label>
+                <Label x:Name="lbVol"  Content="Ses Ayarı" HorizontalAlignment="Left" Margin="801,23,0,0" VerticalAlignment="Top" Foreground="White" FontSize="8">
+                    <Label.Style>
+                        <Style TargetType="{x:Type Label}">
+                            <Setter Property="Visibility" Value="Collapsed"/>
+                            <Style.Triggers>
+                                <DataTrigger Binding="{Binding IsMouseOver, ElementName=btVol}"
+    								Value="True"   >
+                                    <Setter Property="Visibility" Value="Visible"/>
+                                </DataTrigger>
+                            </Style.Triggers>
+                        </Style>
+                    </Label.Style>
+                </Label>
+                <Label x:Name="lbdesacrep"  Content="Tekrar yok" HorizontalAlignment="Left" Margin="376,18,0,0" VerticalAlignment="Top" Foreground="White" FontSize="8">
+                    <Label.Style>
+                        <Style TargetType="{x:Type Label}">
+                            <Setter Property="Visibility" Value="Collapsed"/>
+                            <Style.Triggers>
+                                <DataTrigger Binding="{Binding IsMouseOver, ElementName=btRepeatActivo}"
+    								Value="True"   >
+                                    <Setter Property="Visibility" Value="Visible"/>
+                                </DataTrigger>
+                            </Style.Triggers>
+                        </Style>
+                    </Label.Style>
+                </Label>
+                <Label x:Name="lbSCreen"  Content="Tam Ekran" HorizontalAlignment="Left" Margin="898,24,0,0" VerticalAlignment="Top" Foreground="White" FontSize="8" Width="52">
+                    <Label.Style>
+                        <Style TargetType="{x:Type Label}">
+                            <Setter Property="Visibility" Value="Collapsed"/>
+                            <Style.Triggers>
+                                <DataTrigger Binding="{Binding IsMouseOver, ElementName=btScreen}"
+    								Value="True"   >
+                                    <Setter Property="Visibility" Value="Visible"/>
+                                </DataTrigger>
+                            </Style.Triggers>
+                        </Style>
+                    </Label.Style>
+                </Label>
+
+
+
+                <Image x:Name="btRepeat" HorizontalAlignment="Left" Height="20" Margin="379,36,0,0" VerticalAlignment="Top" Width="20" Stretch="UniformToFill" MouseLeftButtonDown="imarepeat_MouseLeftButtonDown" Source="Resources/btn_Repeat_p.png" RenderTransformOrigin="0.667,0.167" />
+                <Image x:Name="btStop" HorizontalAlignment="Left" Height="20" Margin="417,36,0,0" VerticalAlignment="Top" Width="20" Stretch="UniformToFill"  MouseLeftButtonDown="btStop_MouseLeftButtonDown" Source="Resources/btn_stop_P.png"  />
+                <Image x:Name="btBack" HorizontalAlignment="Left" Height="20" Margin="454,36,0,0" VerticalAlignment="Top" Width="20" Stretch="UniformToFill"  MouseLeftButtonDown="btBack_MouseLeftButtonDown"  Source="Resources/btn_previous_P.png"  />
+                <Image x:Name="btPause" HorizontalAlignment="Left" Height="20" Margin="479,36,0,0" VerticalAlignment="Top" Width="20"  Source="Resources/btn_pause_P.png" StretchDirection="DownOnly" MouseLeftButtonDown="btPause_MouseLeftButtonDown_1"  />
+                <Image x:Name="btPlay" HorizontalAlignment="Left" Height="20" Margin="479,35,0,0" VerticalAlignment="Top" Width="20"  MouseLeftButtonDown="btPlay_MouseLeftButtonDown"  Source="Resources/btn_play_P.png" StretchDirection="DownOnly"  />
+                <Image x:Name="btNext" HorizontalAlignment="Left" Height="20" Margin="504,36,0,0" VerticalAlignment="Top" Width="20" Stretch="UniformToFill"  MouseLeftButtonDown="btNext_MouseLeftButtonDown"  Source="Resources/btn_next_P.png"  />
+                <Image x:Name="btVol" HorizontalAlignment="Left" Height="20" Margin="808,35,0,0" VerticalAlignment="Top" Width="20" Stretch="UniformToFill"  MouseLeftButtonDown="btVol_MouseLeftButtonDown"  Source="Resources/btn_volume_P.png" OpacityMask="White"  />
+                <Image x:Name="btRepeatActivo" Visibility="Collapsed" HorizontalAlignment="Left" Height="20" Margin="379,36,0,0" VerticalAlignment="Top" Width="20" Stretch="UniformToFill" MouseLeftButtonDown="imarepeat_MouseLeftButtonDown"  Source="Resources/Btn_RepeatC_p.png" RenderTransformOrigin="0.667,0.167" />
+                <Image x:Name="btScreen" HorizontalAlignment="Left" Height="13" Margin="917,43,0,0" VerticalAlignment="Top" Width="17"  MouseLeftButtonDown="btScreen_MouseLeftButtonDown"  Source="Resources/dimensions(2).png"  />
+                <Slider x:Name="slideravance" HorizontalAlignment="Left" Margin="47,10,0,0" VerticalAlignment="Top" Width="841" Style="{DynamicResource EstiloSlider}" IsMoveToPointEnabled="True" MouseLeftButtonUp="slideravance_MouseLeftButtonUp"/>
+                <Label x:Name="lbtime" Margin="893,8,24,31" Foreground="White" FontSize="10"/>
+            </Grid>
+        </Border>
+    </Grid>
+</Window>

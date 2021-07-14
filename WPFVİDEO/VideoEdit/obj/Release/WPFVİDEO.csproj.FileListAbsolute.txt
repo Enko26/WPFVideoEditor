@@ -1,0 +1,47 @@
+C:\Users\tr\Desktop\MultimediaPlayer - Kopya\MultimediaPlayer\bin\Release\MultimediaPlayer.exe.config
+C:\Users\tr\Desktop\MultimediaPlayer - Kopya\MultimediaPlayer\bin\Release\MultimediaPlayer.exe
+C:\Users\tr\Desktop\MultimediaPlayer - Kopya\MultimediaPlayer\bin\Release\MultimediaPlayer.pdb
+C:\Users\tr\Desktop\MultimediaPlayer - Kopya\MultimediaPlayer\obj\Release\WPFVİDEO.csprojAssemblyReference.cache
+C:\Users\tr\Desktop\MultimediaPlayer - Kopya\MultimediaPlayer\obj\Release\MainWindow.baml
+C:\Users\tr\Desktop\MultimediaPlayer - Kopya\MultimediaPlayer\obj\Release\App.baml
+C:\Users\tr\Desktop\MultimediaPlayer - Kopya\MultimediaPlayer\obj\Release\MainWindow.g.cs
+C:\Users\tr\Desktop\MultimediaPlayer - Kopya\MultimediaPlayer\obj\Release\App.g.cs
+C:\Users\tr\Desktop\MultimediaPlayer - Kopya\MultimediaPlayer\obj\Release\MultimediaPlayer_Content.g.cs
+C:\Users\tr\Desktop\MultimediaPlayer - Kopya\MultimediaPlayer\obj\Release\MultimediaPlayer_MarkupCompile.cache
+C:\Users\tr\Desktop\MultimediaPlayer - Kopya\MultimediaPlayer\obj\Release\MultimediaPlayer.g.resources
+C:\Users\tr\Desktop\MultimediaPlayer - Kopya\MultimediaPlayer\obj\Release\MultimediaPlayer.Properties.Resources.resources
+C:\Users\tr\Desktop\MultimediaPlayer - Kopya\MultimediaPlayer\obj\Release\WPFVİDEO.csproj.GenerateResource.cache
+C:\Users\tr\Desktop\MultimediaPlayer - Kopya\MultimediaPlayer\obj\Release\WPFVİDEO.csproj.CoreCompileInputs.cache
+C:\Users\tr\Desktop\MultimediaPlayer - Kopya\MultimediaPlayer\obj\Release\MultimediaPlayer.exe
+C:\Users\tr\Desktop\MultimediaPlayer - Kopya\MultimediaPlayer\obj\Release\MultimediaPlayer.pdb
+C:\Users\tr\Desktop\WPFVİDEO\MultimediaPlayer\bin\Release\WPFVİDEO.exe.config
+C:\Users\tr\Desktop\WPFVİDEO\MultimediaPlayer\bin\Release\WPFVİDEO.exe
+C:\Users\tr\Desktop\WPFVİDEO\MultimediaPlayer\bin\Release\WPFVİDEO.pdb
+C:\Users\tr\Desktop\WPFVİDEO\MultimediaPlayer\obj\Release\WPFVİDEO.csprojAssemblyReference.cache
+C:\Users\tr\Desktop\WPFVİDEO\MultimediaPlayer\obj\Release\MainWindow.baml
+C:\Users\tr\Desktop\WPFVİDEO\MultimediaPlayer\obj\Release\App.baml
+C:\Users\tr\Desktop\WPFVİDEO\MultimediaPlayer\obj\Release\MainWindow.g.cs
+C:\Users\tr\Desktop\WPFVİDEO\MultimediaPlayer\obj\Release\App.g.cs
+C:\Users\tr\Desktop\WPFVİDEO\MultimediaPlayer\obj\Release\WPFVİDEO_Content.g.cs
+C:\Users\tr\Desktop\WPFVİDEO\MultimediaPlayer\obj\Release\WPFVİDEO_MarkupCompile.cache
+C:\Users\tr\Desktop\WPFVİDEO\MultimediaPlayer\obj\Release\WPFVİDEO.g.resources
+C:\Users\tr\Desktop\WPFVİDEO\MultimediaPlayer\obj\Release\WPFVİDEO.Properties.Resources.resources
+C:\Users\tr\Desktop\WPFVİDEO\MultimediaPlayer\obj\Release\WPFVİDEO.csproj.GenerateResource.cache
+C:\Users\tr\Desktop\WPFVİDEO\MultimediaPlayer\obj\Release\WPFVİDEO.csproj.CoreCompileInputs.cache
+C:\Users\tr\Desktop\WPFVİDEO\MultimediaPlayer\obj\Release\WPFVİDEO.exe
+C:\Users\tr\Desktop\WPFVİDEO\MultimediaPlayer\obj\Release\WPFVİDEO.pdb
+C:\Users\tr\Desktop\WPFVİDEO\VideoEdit\obj\Release\WPFVİDEO.csprojAssemblyReference.cache
+C:\Users\tr\Desktop\WPFVİDEO\VideoEdit\obj\Release\MainWindow.baml
+C:\Users\tr\Desktop\WPFVİDEO\VideoEdit\obj\Release\App.baml
+C:\Users\tr\Desktop\WPFVİDEO\VideoEdit\obj\Release\MainWindow.g.cs
+C:\Users\tr\Desktop\WPFVİDEO\VideoEdit\obj\Release\App.g.cs
+C:\Users\tr\Desktop\WPFVİDEO\VideoEdit\obj\Release\WPFVİDEO_MarkupCompile.cache
+C:\Users\tr\Desktop\WPFVİDEO\VideoEdit\obj\Release\WPFVİDEO.g.resources
+C:\Users\tr\Desktop\WPFVİDEO\VideoEdit\obj\Release\WPFVİDEO.Properties.Resources.resources
+C:\Users\tr\Desktop\WPFVİDEO\VideoEdit\obj\Release\WPFVİDEO.csproj.GenerateResource.cache
+C:\Users\tr\Desktop\WPFVİDEO\VideoEdit\obj\Release\WPFVİDEO.csproj.CoreCompileInputs.cache
+C:\Users\tr\Desktop\WPFVİDEO\VideoEdit\obj\Release\WPFVİDEO.exe
+C:\Users\tr\Desktop\WPFVİDEO\VideoEdit\obj\Release\WPFVİDEO.pdb
+C:\Users\tr\Desktop\WPFVİDEO\VideoEdit\bin\Release\WPFVİDEO.exe.config
+C:\Users\tr\Desktop\WPFVİDEO\VideoEdit\bin\Release\WPFVİDEO.exe
+C:\Users\tr\Desktop\WPFVİDEO\VideoEdit\bin\Release\WPFVİDEO.pdb
